@@ -1,0 +1,101 @@
+body{
+    font-family: sans-serif;
+}
+header{
+    margin-top: 100px;
+}
+.container-fluid{
+    padding:15px 120px;
+}
+.nav-link{
+    margin: 0 15px;
+}
+.btn{
+    background-color: #1292ee;
+    color: white;
+}
+.navbar-brand{
+    display: block;
+    height: 45px;
+    margin: 0px 25px 0px 0px;
+    padding: 5px 0px 10px;
+    width: 152px;
+    background: url(../assets/images/logo.svg) 0px 5px / 100% no-repeat;
+}
+.content{
+padding-left:160px;
+padding-top: 60px;
+}
+.content h1{
+    font-size: 45px;
+}
+.content h5{
+    line-height: 40px;
+}
+.content input{
+    margin-top: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius:  4px 0 0 4px;
+    border: 1px solid rgb(110, 109, 109);
+}
+.content button{
+   border-radius:  0 4px 4px 0;
+    height: 50px;
+}
+.content a{
+   text-decoration: none;
+}
+.video {
+    float: right;
+}
+
+.client img{
+    margin-top: 30px;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  opacity: 0.5;
+}
+.email{
+    padding-top: 250px;
+
+}
+.email img{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+ .top-img{
+
+    
+   margin-bottom: -400px;
+   margin-left: 500px;
+}
+.btm-img{
+    width: 100%;
+    height: auto;
+    margin-left: 100px;
+    z-index: 100px;
+}
+.report{
+    margin-top: 150px;
+}
+.report-content{
+    margin-top: 100px;
+}
+footer{
+    background-color: rgb(29, 43, 54);
+    
+    color: white;
+}
+.footer-icon{
+    width: 25px;
+    height: auto;
+}
+footer p {
+    color: rgb(170, 165, 165);
+    cursor: pointer;
+    line-height: 40px;
+    font-size: small;
+    
+}
+
